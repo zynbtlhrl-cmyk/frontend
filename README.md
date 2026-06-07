@@ -26,7 +26,7 @@
 
 ### الصفحة الرئيسية
 
-![User Home](screenshots/user1.png)
+![User Home](IMG-20260607-WA0024.jpg)
 
 ### صفحة الأقسام
 
