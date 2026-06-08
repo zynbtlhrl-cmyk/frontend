@@ -23,8 +23,7 @@
 * إدارة الملف الشخصي.
 <h2>صور واجهة المستخدم</h2>
 
-<table cellpadding="20" cellspacing="20">
-  <tr>
+<table cellpadding="30" cellspacing="30">  <tr>
     <td align="center">
       <b>الصفحة الرئيسية</b><br>
       <img src="assets/image/home.png" width="220"/>
