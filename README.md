@@ -43,11 +43,11 @@
 
 ### صفحة المفضلة
 
-![Favorites](assets/image/img1.png)
+![Favorites](assets/image/img11.png)
 
 ### صفحة الملف الشخصي
 
-![Profile](assets/image/img2.png)
+![Profile](assets/image/img22.png)
 
 ---
 
