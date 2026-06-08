@@ -21,36 +21,49 @@
 * مشاهدة الفيديوهات التعليمية.
 * إضافة الكورسات إلى المفضلة.
 * إدارة الملف الشخصي.
+<h2>صور واجهة المستخدم</h2>
 
-## صور واجهة المستخدم
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/image/home.png" width="250"/>
+      <br>الصفحة الرئيسية
+    </td>
+    <td align="center">
+      <img src="assets/image/menu.png" width="250"/>
+      <br>المينيو
+    </td>
+  </tr>
 
-### الصفحة الرئيسية
+  <tr>
+    <td align="center">
+      <img src="assets/image/course.png" width="250"/>
+      <br>صفحة الكورسات
+    </td>
+    <td align="center">
+      <img src="assets/image/viedo.png" width="250"/>
+      <br>صفحة الفيديوهات
+    </td>
+  </tr>
 
-![User Home](assets/image/home.png)
+  <tr>
+    <td align="center">
+      <img src="assets/image/screen_full.png" width="250"/>
+      <br>داخل الفيديو
+    </td>
+    <td align="center">
+      <img src="assets/image/ferst.png" width="250"/>
+      <br>المفضلة
+    </td>
+  </tr>
 
-###  المينيو
-
-
-![Categories](assets/image/menu.png)
-
-### صفحة الكورسات
-
-![Courses](assets/image/course.png)
-
-### صفحة الفيديوهات
-
-![Videos](assets/image/viedo.png)
-
-### صفحة داخل فيديو
-![Videos](assets/image/screen_full.png)
-
-### صفحة المفضلة
-![Favorites](assets/image/ferst.png)
-
-### صفحة الملف الشخصي
-
-![Profile](assets/image/profile.png)
-
+  <tr>
+    <td colspan="2" align="center">
+      <img src="assets/image/profile.png" width="250"/>
+      <br>الملف الشخصي
+    </td>
+  </tr>
+</table>
 ---
 
 # واجهة الإدارة (Admin)
