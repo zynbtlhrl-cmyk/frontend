@@ -95,6 +95,9 @@
 
 ## صور لوحة الإدارة
 
+### الصفحة التسجيل
+
+![Admin Dashboard](assets/image/login.png)
 ### الصفحة الرئيسية
 
 ![Admin Dashboard](assets/image/admin.png)
