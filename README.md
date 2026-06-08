@@ -43,7 +43,7 @@
 
 ### صفحة المفضلة
 
-![Favorites](assets/image/img11.png)
+![Favorites](assets/image/img1.png)
 
 ### صفحة الملف الشخصي
 
