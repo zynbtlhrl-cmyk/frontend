@@ -101,23 +101,23 @@
 
 ### إدارة الأقسام
 
-![Categories Admin](assets/image/admin2.png)
+![Categories Admin](assets/image/img4.png)
 
 ### إدارة الكورسات
 
-![Courses Admin](assets/image/admin3.png)
+![Courses Admin](assets/image/img5.png)
 
 ### إدارة الفيديوهات
 
-![Videos Admin](assets/image/admin4.png)
+![Videos Admin](assets/image/img6.png)
 
 ### إدارة المستخدمين
 
-![Users Admin](assets/image/admin5.png)
+![Users Admin](assets/image/img8.png)
 
 ### الملف الشخصي للإدارة
 
-![Admin Profile](assets/image/admin6.png)
+![Admin Profile](assets/image/img7.png)
 
 ---
 
