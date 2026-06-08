@@ -91,7 +91,6 @@
 
 * عرض جميع المستخدمين.
 * حذف المستخدمين.
-* متابعة نشاط المستخدمين.
 <h2 align="center">صور لوحة الإدارة</h2>
 
 <table align="center" cellpadding="20" cellspacing="20">
