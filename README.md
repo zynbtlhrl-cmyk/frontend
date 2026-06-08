@@ -92,37 +92,49 @@
 * عرض جميع المستخدمين.
 * حذف المستخدمين.
 * متابعة نشاط المستخدمين.
+<h2 align="center">صور لوحة الإدارة</h2>
 
-## صور لوحة الإدارة
+<table align="center" cellpadding="20" cellspacing="20">
+  <tr>
+    <td align="center">
+      <b>صفحة التسجيل</b><br>
+      <img src="assets/image/login.png" width="220"/>
+    </td>
+    <td align="center">
+      <b>الصفحة الرئيسية</b><br>
+      <img src="assets/image/admin.png" width="220"/>
+    </td>
+  </tr>
 
-### الصفحة التسجيل
+  <tr>
+    <td align="center">
+      <b>إدارة الأقسام</b><br>
+      <img src="assets/image/img4.png" width="220"/>
+    </td>
+    <td align="center">
+      <b>إدارة الكورسات</b><br>
+      <img src="assets/image/img5.png" width="220"/>
+    </td>
+  </tr>
 
-![Admin Dashboard](assets/image/login.png)
-### الصفحة الرئيسية
+  <tr>
+    <td align="center">
+      <b>إدارة الفيديوهات</b><br>
+      <img src="assets/image/img6.png" width="220"/>
+    </td>
+    <td align="center">
+      <b>إدارة المستخدمين</b><br>
+      <img src="assets/image/img8.png" width="220"/>
+    </td>
+  </tr>
 
-![Admin Dashboard](assets/image/admin.png)
-
-### إدارة الأقسام
-
-![Categories Admin](assets/image/img4.png)
-
-### إدارة الكورسات
-
-![Courses Admin](assets/image/img5.png)
-
-### إدارة الفيديوهات
-
-![Videos Admin](assets/image/img6.png)
-
-### إدارة المستخدمين
-
-![Users Admin](assets/image/img8.png)
-
-### الملف الشخصي للإدارة
-
-![Admin Profile](assets/image/img7.png)
-
----
+  <tr>
+    <td colspan="2" align="center">
+      <b>الملف الشخصي للإدارة</b><br>
+      <img src="assets/image/img7.png" width="220"/>
+    </td>
+  </tr>
+</table>
 
 # التقنيات المستخدمة
 
