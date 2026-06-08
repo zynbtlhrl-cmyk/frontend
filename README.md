@@ -97,7 +97,7 @@
 
 ### الصفحة الرئيسية
 
-![Admin Dashboard](assets/image/admin1.png)
+![Admin Dashboard](assets/image/admin.png)
 
 ### إدارة الأقسام
 
