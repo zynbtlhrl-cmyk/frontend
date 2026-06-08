@@ -28,9 +28,10 @@
 
 ![User Home](assets/image/home.png)
 
-### صفحة الأقسام
+###  المينيو
 
-![Categories](screenshots/user2.png)
+
+![Categories](assets/image/menu.png)
 
 ### صفحة الكورسات
 
