@@ -97,27 +97,27 @@
 
 ### الصفحة الرئيسية
 
-![Admin Dashboard](screenshots/admin1.png)
+![Admin Dashboard](assets/image/admin1.png)
 
 ### إدارة الأقسام
 
-![Categories Admin](screenshots/admin2.png)
+![Categories Admin](assets/image/admin2.png)
 
 ### إدارة الكورسات
 
-![Courses Admin](screenshots/admin3.png)
+![Courses Admin](assets/image/admin3.png)
 
 ### إدارة الفيديوهات
 
-![Videos Admin](screenshots/admin4.png)
+![Videos Admin](assets/image/admin4.png)
 
 ### إدارة المستخدمين
 
-![Users Admin](screenshots/admin5.png)
+![Users Admin](assets/image/admin5.png)
 
 ### الملف الشخصي للإدارة
 
-![Admin Profile](screenshots/admin6.png)
+![Admin Profile](assets/image/admin6.png)
 
 ---
 
