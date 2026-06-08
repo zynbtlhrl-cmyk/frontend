@@ -21,9 +21,10 @@
 * مشاهدة الفيديوهات التعليمية.
 * إضافة الكورسات إلى المفضلة.
 * إدارة الملف الشخصي.
-<h2>صور واجهة المستخدم</h2>
+<h2 align="center">صور واجهة المستخدم</h2>
 
-<table cellpadding="30" cellspacing="30">  <tr>
+<table align="center" cellpadding="20" cellspacing="20">
+  <tr>
     <td align="center">
       <b>الصفحة الرئيسية</b><br>
       <img src="assets/image/home.png" width="220"/>
