@@ -41,8 +41,10 @@
 
 ![Videos](assets/image/viedo.png)
 
-### صفحة المفضلة
+### صفحة داخل فيديو
+![Videos](assets/image/screen_full.png)
 
+### صفحة المفضلة
 ![Favorites](assets/image/ferst.png)
 
 ### صفحة الملف الشخصي
