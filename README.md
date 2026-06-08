@@ -35,19 +35,19 @@
 
 ### صفحة الكورسات
 
-![Courses](screenshots/user3.png)
+![Courses](assets/image/course.png)
 
 ### صفحة الفيديوهات
 
-![Videos](screenshots/user4.png)
+![Videos](assets/image/viedo.png)
 
 ### صفحة المفضلة
 
-![Favorites](screenshots/user5.png)
+![Favorites](assets/image/img1.png)
 
 ### صفحة الملف الشخصي
 
-![Profile](screenshots/user6.png)
+![Profile](assets/image/img2.png)
 
 ---
 
