@@ -26,45 +26,44 @@
 <table>
   <tr>
     <td align="center">
-      <img src="assets/image/home.png" width="250"/>
-      <br>الصفحة الرئيسية
+      <b>الصفحة الرئيسية</b><br>
+      <img src="assets/image/home.png" width="220"/>
     </td>
     <td align="center">
-      <img src="assets/image/menu.png" width="250"/>
-      <br>المينيو
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="assets/image/course.png" width="250"/>
-      <br>صفحة الكورسات
-    </td>
-    <td align="center">
-      <img src="assets/image/viedo.png" width="250"/>
-      <br>صفحة الفيديوهات
+      <b>المينيو</b><br>
+      <img src="assets/image/menu.png" width="220"/>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="assets/image/screen_full.png" width="250"/>
-      <br>داخل الفيديو
+      <b>صفحة الكورسات</b><br>
+      <img src="assets/image/course.png" width="220"/>
     </td>
     <td align="center">
-      <img src="assets/image/ferst.png" width="250"/>
-      <br>المفضلة
+      <b>صفحة الفيديوهات</b><br>
+      <img src="assets/image/viedo.png" width="220"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>داخل الفيديو</b><br>
+      <img src="assets/image/screen_full.png" width="220"/>
+    </td>
+    <td align="center">
+      <b>المفضلة</b><br>
+      <img src="assets/image/ferst.png" width="220"/>
     </td>
   </tr>
 
   <tr>
     <td colspan="2" align="center">
-      <img src="assets/image/profile.png" width="250"/>
-      <br>الملف الشخصي
+      <b>الملف الشخصي</b><br>
+      <img src="assets/image/profile.png" width="220"/>
     </td>
   </tr>
 </table>
----
 
 # واجهة الإدارة (Admin)
 
